@@ -1,10 +1,7 @@
 #Linked lists and binary trees
 
-After some couple hundreds lines of implementing data structures in C using malloc and pointers in order to design a neat database for a supermarket,
-I realised just how versatile pointers are. You cand do everything with them, even use pointers to pointers to pointers to... Now, you may 
-ask "But why?" Heh, maybe only for the heck of it, just to see how far you can go before your brain gets crushed underneath the crunchy 
-mechanisms of data manipulation.
-Back to the database though. Thins are quite straightforward:
+After some couple hundreds lines of implementing data structures in C using malloc and pointers in order to design a neat database for a supermarket, I realised just how versatile pointers are. You cand do everything with them, even use pointers to pointers to pointers to... Now, you may ask "But why?" Heh, maybe only for the heck of it, just to see how far you can go before your brain gets crushed underneath the crunchy mechanisms of data manipulation.
+Back to the database though. Things are quite straightforward:
  - Every product has a unique ID 
  - You can add, delete or sort products by a given attribute
  - Everything is possible by using a tidy CLI user interface
